@@ -83,8 +83,8 @@ body {
   padding: 2em;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  max-width: 500px;
-  width: 100%;
+  max-width: 700px;
+  width: 150%;
   margin: auto;
  
 }
@@ -92,6 +92,7 @@ body {
 h1 {
   text-align: center;
   color: #333;
+  font-size: 35px;
 }
 
 .todo-form {
@@ -136,7 +137,7 @@ h1 {
   border-radius: 4px;
   cursor: pointer;
   font-size: 1em;
-  width: 48%;
+  width: 40%;
 }
 
 .actions button:hover {
@@ -147,6 +148,7 @@ h1 {
   list-style: none;
   padding: 0;
   margin: 0;
+  color: rgb(38, 18, 18);
 }
 
 .todo-item {
